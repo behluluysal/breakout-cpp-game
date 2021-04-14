@@ -1,0 +1,5 @@
+﻿  maincpp.cpp
+C:\Users\sbuys\Desktop\SFML\Project1\Project1\maincpp.cpp(33,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\sbuys\Desktop\SFML\Project1\Project1\maincpp.cpp(52,51): warning C4244: 'bağımsız değişken': 'float' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\sbuys\Desktop\SFML\Project1\Project1\maincpp.cpp(52,43): warning C4244: 'bağımsız değişken': 'float' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Project1.vcxproj -> C:\Users\sbuys\Desktop\SFML\Dependencies\bin\Project1.exe
