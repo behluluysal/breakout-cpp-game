@@ -148,8 +148,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="maincpp.cpp" />
-    <ClCompile Include="Oyun.cpp" />
-    <ClCompile Include="Pencere.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Oyun.hpp" />
